@@ -1,14 +1,27 @@
-<div class="container mx-auto">
-  <div class="flex flex-col md:flex-row items-center h-[850px] md:h-[550px] gap-8 md:gap-0 pt-12 mt:pt-0">
-    <div data-aos="fade-up" class="w-full md:w-[55%] aos-init aos-animate">
-      <h1 class="text-4xl md:text-5xl font-semibold text-white leading-snug">Cloud VPS Terbaik<br> Berperforma Tinggi</h1>
-      <p class="text-white text-xl leading-relaxed my-8">Deploy High Availability NVMe Cloud VPS kurang dari 40 detik <br class="hidden md:inline-block"> dengan fitur dan teknologi terbaik untuk segala kebutuhan aplikasi web.</p>
-      <a href="#product" type="button" class="inline-block px-6 py-2 text-white transition duration-200 bg-green-500 rounded shadow-lg hover:bg-green-600 font-semibold">
-        Deploy Cloud VPS
-      </a>
-    </div>
-    <div data-aos="fade-up-left" data-aos-delay="100" class="w-auto flex items-center justify-center aos-init aos-animate">
-      <img class="animate-flying scale-80 md:scale-100" loading="lazy" src="//static.domainesia.com/assets/images/cloud-vps/domion.svg" alt="Domion" width="400" height="449">
-    </div>
-  </div>
+<div align="center">
+  <img src="https://example.com/galaxy-animation.gif" alt="Galaxy Animation" width="500" height="500">
 </div>
+
+# Welcome to My GitHub Profile!
+
+I'm John Doe, a passionate developer exploring the depths of the universe through code. 🌌
+
+## About Me
+
+I am a lifelong learner on a mission to master the art of programming and create innovative solutions that push the boundaries of technology. My areas of expertise include:
+
+- Frontend Development
+- Backend Development
+- Data Science
+
+## My Projects
+
+Here are some of my noteworthy projects:
+
+- [Project 1](https://github.com/myusername/project1)
+- [Project 2](https://github.com/myusername/project2)
+- [Project 3](https://github.com/myusername/project3)
+
+## Get in Touch
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/myusername) or [Twitter](https://twitter.com/myusername). Let's connect and embark on a cosmic coding journey together! 🚀
