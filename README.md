@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
-    <iframe src="https://giphy.com/embed/APExBZ9Aqqy4cDXNoS" width="100%" height="100%" style="position: absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
+  <img src="https://giphy.com/embed/APExBZ9Aqqy4cDXNoS" alt="GIF" style="max-width: 100%; height: auto;">
 </div>
 
 # Selamat Datang di Profil Saya
@@ -20,7 +18,7 @@
 
 ## Tentang Saya
 
-🔭 Saya saat ini sedang Menempuh Pendidikan <br>
+🔭 Saya saat ini sedang menempuh pendidikan. <br>
 🌱 Saya antusias dalam belajar dan mengeksplorasi teknologi baru di bidang pengembangan perangkat lunak.
 
 ## Keahlian
