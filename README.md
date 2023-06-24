@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/APExBZ9Aqqy4cDXNoS/giphy.gif" alt="Space Science Astronomy" />
+  <img src="https://media.giphy.com/media/APExBZ9Aqqy4cDXNoS/giphy.gif" alt="Space Science Astronomy" style="width: 100%; height: auto;" />
 </div>
 
-<h1 align="center">Welcome to My Profile</h1>
+# Selamat Datang di Profil Saya
 
 <div align="center">
   <a href="https://api.whatsapp.com/qr/EM2UNBYDOPMKJ1?autoload=1&app_absent=0">
@@ -16,12 +16,12 @@
   </a>
 </div>
 
-## About Me
+## Tentang Saya
 
-🔭 I'm currently working on an ATM locator Application.
-🌱 I'm passionate about learning and exploring new technologies in the field of software development.
+🔭 Saya saat ini sedang Menempuh Pendidikan
+🌱 Saya antusias dalam belajar dan mengeksplorasi teknologi baru di bidang pengembangan perangkat lunak.
 
-## Skills
+## Keahlian
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
@@ -32,6 +32,6 @@
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
 </div>
 
-## Inspirational Quote
+## Kutipan Inspiratif
 
-"Learning is a journey, not a destination. Enjoy the process and embrace the challenges along the way." - Unknown
+"Belajar adalah perjalanan, bukan tujuan akhir. Nikmati prosesnya dan hadapi tantangan di sepanjang jalan." 
