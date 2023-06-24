@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/APExBZ9Aqqy4cDXNoS/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
+  <img src="https://media.giphy.com/media/APExBZ9Aqqy4cDXNoS/giphy.gif](https://media.giphy.com/media/hMVg0SIpaZ7bI6shje/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
 </div>
 
 # Selamat Datang di Profil Saya
