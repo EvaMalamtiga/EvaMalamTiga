@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-galaxy-animation.gif" alt="Galaxy Animation" width="500" height="500">
+  <img src="https://i.imgur.com/your-galaxy-image.png" alt="Galaxy Image" width="500" height="500">
 </div>
 
 # Welcome to My GitHub Profile!
