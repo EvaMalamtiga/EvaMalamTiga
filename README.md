@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/APExBZ9Aqqy4cDXNoS/giphy.gif" alt="Space Science Astronomy" style="width: 100%; height: 100%;" />
+  <div style="width: 100%; height: 0; padding-bottom: 56.25%; position: relative;">
+    <iframe src="https://giphy.com/embed/APExBZ9Aqqy4cDXNoS" width="100%" height="100%" style="position: absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </div>
 </div>
 
 # Selamat Datang di Profil Saya
@@ -18,7 +20,7 @@
 
 ## Tentang Saya
 
-🔭 Saya saat ini sedang Menempuh Pendidikan
+🔭 Saya saat ini sedang Menempuh Pendidikan <br>
 🌱 Saya antusias dalam belajar dan mengeksplorasi teknologi baru di bidang pengembangan perangkat lunak.
 
 ## Keahlian
@@ -34,4 +36,4 @@
 
 ## Kutipan Inspiratif
 
-"Belajar adalah perjalanan, bukan tujuan akhir. Nikmati prosesnya dan hadapi tantangan di sepanjang jalan." 
+"Belajar adalah perjalanan, bukan tujuan akhir. Nikmati prosesnya dan hadapi tantangan di sepanjang jalan." - Tidak Diketahui
