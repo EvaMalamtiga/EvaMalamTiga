@@ -1,23 +1,49 @@
-<h1 align="center">Hi 👋, I'm Eva Novianti Malamtiga</h1>
-<h3 align="center">"Pendidikan adalah senjata paling kuat yang bisa Anda gunakan untuk mengubah dunia." - Nelson Mandela</h3>
+<!-- Your Name -->
+# Hi there 👋 I'm [Your Name]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evamalamtiga&label=Profile%20views&color=0e75b6&style=flat" alt="evamalamtiga" /> </p>
+<!-- Your Introduction -->
+A passionate developer exploring the realms of technology and shaping the future with code. 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evamalamtiga" alt="evamalamtiga" /></a> </p>
+<!-- Your Interests -->
+## 🌟 Interests
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- Artificial Intelligence and Machine Learning enthusiast
+- Web and Mobile App Development
+- Open Source contributor
+- Gaming and Virtual Reality
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eva-novianti-malamtiga-5682b9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eva-novianti-malamtiga-5682b9247" height="30" width="40" /></a>
-<a href="https://instagram.com/@t4put" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@t4put" height="30" width="40" /></a>
-</p>
+<!-- Your Skills -->
+## 💻 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Languages:** Python, JavaScript, Java
+- **Frameworks:** React, Node.js, Django
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, Docker, VS Code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evamalamtiga&show_icons=true&locale=en&layout=compact" alt="evamalamtiga" /></p>
+<!-- Your Projects -->
+## 🚀 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evamalamtiga&show_icons=true&locale=en" alt="evamalamtiga" /></p>
+- [Project 1](https://github.com/yourusername/project1): Short description of your project.
+- [Project 2](https://github.com/yourusername/project2): Short description of your project.
+- [Project 3](https://github.com/yourusername/project3): Short description of your project.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evamalamtiga&" alt="evamalamtiga" /></p>
+<!-- Your GitHub Stats -->
+## 📈 GitHub Stats
+
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+
+<!-- Your Social Media Links -->
+## 🔗 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+
+<!-- Your Favorite Quote -->
+## 💡 Favorite Quote
+
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+
+<!-- Your Footer -->
+<footer align="center">
+  <p>Designed with ❤️ by [Your Name]</p>
+</footer>
