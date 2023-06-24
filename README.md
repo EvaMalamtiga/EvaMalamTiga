@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/embed/APExBZ9Aqqy4cDXNoS" alt="GIF" style="max-width: auto; height: auto;">
+  <img src="h[ttps://giphy.com/embed/APExBZ9Aqqy4cDXNoS](https://giphy.com/clips/space-science-astronomy-APExBZ9Aqqy4cDXNoS)" alt="GIF" style="max-width: auto; height: auto;">
 </div>
 
 # Selamat Datang di Profil Saya
